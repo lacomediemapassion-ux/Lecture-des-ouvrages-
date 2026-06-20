@@ -1,0 +1,6 @@
+{
+  "name": "FioBib",
+  "description": "Bibliothèque numérique interactive avec compagnon de lecture intelligent alimenté par Gemini AI pour explorer les classiques littéraires.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
